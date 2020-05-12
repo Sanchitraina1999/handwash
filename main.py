@@ -5,7 +5,7 @@ while True:
     notification.notify(
         title = 'Reminder to wash hands',
         message = 'Hey There!, Wash your Hands.',
-        app_icon = '/home/sanchit199/Desktop/handwash/icon.ico', #change THI
+        app_icon = '/home/sanchit199/Desktop/handwash/icon.ico', #change THIS by our current directory
         timeout = 10
     )
     time.sleep(30*60)
