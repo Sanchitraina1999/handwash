@@ -8,4 +8,4 @@ while True:
         app_icon = '/home/sanchit199/Desktop/handwash/icon.ico',
         timeout = 10
     )
-    time.sleep(60)
+    time.sleep(20)
