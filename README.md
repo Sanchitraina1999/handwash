@@ -4,4 +4,4 @@ _Reminds you to wash your Hands!_
 
 Wash Hands! Stay Safe!
 
-![Image] (Screenshot.png)
+![Image] (home/Desktop//Screenshot.png)
