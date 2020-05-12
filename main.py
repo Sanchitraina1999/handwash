@@ -9,4 +9,4 @@ if __name__ == '__main__':
             app_icon = '/home/sanchit199/Desktop/handwash/icon.ico',
             timeout = 10
         )
-    time.
+    time.sleep(1*60)
